@@ -1,0 +1,6 @@
+C:\Users\hafiz\Documents\C sharp\keylog\keylog\keylog\obj\Debug\keylog.csprojAssemblyReference.cache
+C:\Users\hafiz\Documents\C sharp\keylog\keylog\keylog\bin\Debug\keylog.exe.config
+C:\Users\hafiz\Documents\C sharp\keylog\keylog\keylog\bin\Debug\keylog.exe
+C:\Users\hafiz\Documents\C sharp\keylog\keylog\keylog\bin\Debug\keylog.pdb
+C:\Users\hafiz\Documents\C sharp\keylog\keylog\keylog\obj\Debug\keylog.exe
+C:\Users\hafiz\Documents\C sharp\keylog\keylog\keylog\obj\Debug\keylog.pdb
